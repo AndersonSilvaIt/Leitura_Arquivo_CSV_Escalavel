@@ -1,0 +1,10 @@
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\bin\Debug\netcoreapp2.2\Leitura_ArquivoCSV.deps.json
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\bin\Debug\netcoreapp2.2\Leitura_ArquivoCSV.runtimeconfig.json
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\bin\Debug\netcoreapp2.2\Leitura_ArquivoCSV.runtimeconfig.dev.json
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\bin\Debug\netcoreapp2.2\Leitura_ArquivoCSV.dll
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\bin\Debug\netcoreapp2.2\Leitura_ArquivoCSV.pdb
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\obj\Debug\netcoreapp2.2\Leitura_ArquivoCSV.csproj.CoreCompileInputs.cache
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\obj\Debug\netcoreapp2.2\Leitura_ArquivoCSV.AssemblyInfoInputs.cache
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\obj\Debug\netcoreapp2.2\Leitura_ArquivoCSV.AssemblyInfo.cs
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\obj\Debug\netcoreapp2.2\Leitura_ArquivoCSV.dll
+C:\Users\Prodwin\Desktop\LendoArquivoCSV\Leitura_Arquivo_CSV_Escalavel\Leitura_ArquivoCSV\Leitura_ArquivoCSV\obj\Debug\netcoreapp2.2\Leitura_ArquivoCSV.pdb

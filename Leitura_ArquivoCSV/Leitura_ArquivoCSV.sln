@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitura_ArquivoCSV", "Leitura_ArquivoCSV\Leitura_ArquivoCSV.csproj", "{0DF23B3D-C505-42AF-9129-A7ACE5F99BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF23B3D-C505-42AF-9129-A7ACE5F99BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF23B3D-C505-42AF-9129-A7ACE5F99BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF23B3D-C505-42AF-9129-A7ACE5F99BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF23B3D-C505-42AF-9129-A7ACE5F99BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450EFFCB-44EA-421D-90D1-D04BC0272B96}
+	EndGlobalSection
+EndGlobal
